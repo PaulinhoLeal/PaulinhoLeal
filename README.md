@@ -3,7 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=1000&color=515FF7&width=435&lines=WELCOME%2C+IT'S+A+PLEASURE;BIEN+VIENIDO%2C+ES+UN+PLACER;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B%E3%80%82%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6" alt="Typing SVG" /></a>
 </div>
 
-- 🙂 Atualmente apenas estudando
+- 🙂 Graduando Análise e Desenvolvimento de sistemas na **FATEC - Ferraz de Vasconcelos**
+- 🤩 Monitor voluntário no Curso **PROGRAMANDO SEU FUTURO** no Instituto Federal de São Paulo 
 
 
 
@@ -19,20 +20,15 @@
 ```
   https://github.com/PaulinhoLeal
 ```
-<div align="center">
+<div align="center" >
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="65" height="70"  />
  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"  height="45" width="45" />
-
-
- 
-
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"  />
-  </div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />   
+</div>
 
 ##
-
 
 <div> 
  
